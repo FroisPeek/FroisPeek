@@ -5,7 +5,7 @@
 
 - 👾 Ciências da Computação - 2️⃣/8️⃣
 - 👀 Procurando um emprego...
-- 📫 How to reach me: <a target="_blank" href="mailto: eduardofroisdrumond@gmail.com">eduardofroisdrumond@gmail.com</a>
+- 📫 Como me encontrar: <a target="_blank" href="mailto: eduardofroisdrumond@gmail.com">eduardofroisdrumond@gmail.com</a>
 
 <h2 align="center">⚡ Stats ⚡</h2> <br>
 
