@@ -21,8 +21,7 @@
 </table> <br>
   
 <p align="center" >
-   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroisPeek&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=0000&hide_border=false&"/></a>
-</p> <br>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviPacini&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
 <hr>
  
@@ -31,5 +30,3 @@
 </p> <br> <br>
 
 <p align="center">
-   . . .
-</p>
