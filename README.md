@@ -26,7 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroisPeek&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
  
-
 <hr>
  
 <p align="center">
@@ -34,5 +33,10 @@
 </p> <br> <br>
 
 <p align="center">
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
