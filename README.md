@@ -17,9 +17,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroisPeek&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FroisPeek&theme=react&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
+   </tr>
 </p>
  
-
 <hr>
  
 <p align="center">
