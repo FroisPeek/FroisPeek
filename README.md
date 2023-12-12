@@ -5,7 +5,7 @@
    </a>
 </h1>
 
-- 👾 Ciências da Computação - 2️⃣/8️⃣
+- 👾 Ciências da Computação - 3️⃣/8️⃣
 - 💻 Trabalhando na Level33
 - 📫 Como me encontrar: <a target="_blank" href="mailto: eduardofroisdrumond@gmail.com">efroisdrumond@gmail.com</a>
 
