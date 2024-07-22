@@ -27,4 +27,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;...+🧊+..." alt="Typing SVG" /></a>
 </p> <br> <br>
 <p align="center">   
+
+   ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5296c5&height=120&section=footer"/>
