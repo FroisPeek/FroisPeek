@@ -9,10 +9,6 @@
 - 💻 Trabalhando na Level33
 - 📫 Como me encontrar: <a target="_blank" href="mailto: eduardofroisdrumond@gmail.com">efroisdrumond@gmail.com</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/du.fd_/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-frois-drumond-a40b94256/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](eduardofroisdrumond@gmail.com)
-
-
 <h2 align="center">⚡ Stats ⚡</h2> <br>
 
 <p align="center">
