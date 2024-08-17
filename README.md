@@ -24,5 +24,9 @@
 </p> <br> <br>
 <p align="center">   
 
-   ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zosin0/Zosin0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zosin0/Zosin0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zosin0/Zosin0/output/github-contribution-grid-snake.svg">
+</picture>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8830bf&height=120&section=footer"/>
